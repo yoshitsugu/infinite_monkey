@@ -2,7 +2,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/yoshitsugu/infinite_monkey/master/screenshot.png)
 
-Inspired by [http://elephnote.com/blog/archives/936]
+Inspired by http://elephnote.com/blog/archives/936
 
 ## Usage
 
